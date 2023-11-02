@@ -1,6 +1,6 @@
 ## SOLID Principles
 ### S - Single Responsibility
-* As per this rule one class should have a single responsibility and it should have only 2 reason to change 
+* As per this rule one class should have a single responsibility and it should have only single reason to change 
 
 * For eg.
     ```sh
@@ -105,7 +105,7 @@
     ```
 
 ### L- Liskov's Principle
-* Idea for this is : If class B is subtyp of class A thenm we should be able to replace object of A with B without breaking the code 
+* Idea for this is : If class B is subtype of class A then we should be able to replace object of A with B without breaking the code 
 
 * Subclass should extend the ability of class and it shouldn't narrow it down
 
