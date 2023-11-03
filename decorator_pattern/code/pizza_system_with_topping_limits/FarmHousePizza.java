@@ -1,4 +1,4 @@
-package decorator_pattern.code;
+package decorator_pattern.code.pizza_system_with_topping_limits;
 
 public class FarmHousePizza extends BasePizza {
 
