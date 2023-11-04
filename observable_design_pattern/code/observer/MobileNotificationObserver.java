@@ -17,5 +17,4 @@ public class MobileNotificationObserver implements NotificationObserver {
     public void updateObserver(){
         System.out.println("Notifying user on his contact no:" + contactNo);
     }
-    InputStream
 }
