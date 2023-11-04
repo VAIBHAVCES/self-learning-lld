@@ -30,4 +30,9 @@
 * Particular factory will return particular types of engines and interiors. They alos have a default interior but you can customize it as per your input
 
 
+### Resources
+* https://refactoring.guru/design-patterns/abstract-factory
+* https://refactoring.guru/design-patterns/abstract-factory
+
+
 
