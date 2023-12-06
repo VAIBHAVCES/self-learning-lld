@@ -1,6 +1,6 @@
-package models;
+package  code_try_1.models;
 
-import services.strategies.SplitStrategy;
+import code_try_1.services.strategies.SplitStrategy;
 
 import java.util.List;
 
